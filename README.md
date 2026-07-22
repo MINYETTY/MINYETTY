@@ -4,7 +4,7 @@
 
 ### ⚡ Engineering tomorrow, one project at a time.
 
-🎧 Vibing to epic beats • ⚔️ Leveling up like Sung Jinwoo • ⚯ Waiting for my Hogwarts letter • 🤖 Building the future through code
+🎧 Vibing to epic beats | ⚔️ Shadow Monarch in training | ⚯ Ravenclaw spirit | 🤖 Mechatronics Student
 
 ---
 
