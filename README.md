@@ -8,7 +8,7 @@
 
 ---
 
-<img src="(https://i.pinimg.com/originals/27/f9/a3/27f9a37eb3dc9b7b7e8e648bb987816b.gif)" width="500"/>
+<img src="https://i.pinimg.com/originals/27/f9/a3/27f9a37eb3dc9b7b7e8e648bb987816b.gif" width="500"/>
 
 </div>
 
@@ -183,6 +183,6 @@ Email
 ⭐ Thanks for visiting my profile!
 
 <p align="center">
-<img src="(https://i.pinimg.com/originals/ac/02/19/ac0219734cfc2fd5ea87b4a76dee3be1.gif)" width="500">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RkNHY3djEwenhyZjEzbmF2bmU3OWVreTI3MzY3YWN5ZW43bXhtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eviL2q35jsoxO/giphy.gif" width="500">
 </p>
 </div>
