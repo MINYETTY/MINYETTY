@@ -108,9 +108,9 @@ Professional photography and editing projects.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MINYETTY&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MINYETTY&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -120,7 +120,7 @@ Professional photography and editing projects.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=MINYETTY&theme=tokyonight"/>
 
 </p>
 
@@ -130,7 +130,7 @@ Professional photography and editing projects.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MINYETTY&theme=tokyo-night"/>
 
 </p>
 
